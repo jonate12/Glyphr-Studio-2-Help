@@ -500,3 +500,7 @@ helpful.
 - Resize shapes with the arrow tool
 - Edit paths with the pen tool
 - Edit glyph, path, and path point details from the Attributes panel
+
+- ### v1.0.0-alpha2 <badge type="danger'>prototype</badge><badge type="info>2021</badge
+- #### Features
+- The alpha version has been released
